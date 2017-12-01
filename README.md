@@ -31,7 +31,7 @@ Or, you can clone this source and follow the article [Maven in 5 Minutes](http:/
     ...
     <dependency>
         <groupId>de.mpii.clausie</groupId>
-        <artifactId>clausIE</artifactId>
+        <artifactId>ClausIE</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
     ...
